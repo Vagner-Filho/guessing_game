@@ -14,7 +14,7 @@ fn main() {
         let mut guess = String::new();
 
         io::stdin()
-            .read_line(&mut guess)
+            .read_line(&mut guess) // the & character indicates that the parameter is a reference, meaning that the is no need to make a copy of it in memory
             .expect("Failed to read line");
 
 
