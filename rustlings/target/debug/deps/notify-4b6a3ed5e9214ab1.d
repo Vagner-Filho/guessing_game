@@ -1,0 +1,12 @@
+D:\Projects\Rust\rustlings\target\debug\deps\notify-4b6a3ed5e9214ab1.rmeta: C:\Users\vagne\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\lib.rs C:\Users\vagne\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\windows.rs C:\Users\vagne\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\null.rs C:\Users\vagne\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\poll.rs C:\Users\vagne\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\debounce\mod.rs C:\Users\vagne\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\debounce\timer.rs
+
+D:\Projects\Rust\rustlings\target\debug\deps\libnotify-4b6a3ed5e9214ab1.rlib: C:\Users\vagne\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\lib.rs C:\Users\vagne\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\windows.rs C:\Users\vagne\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\null.rs C:\Users\vagne\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\poll.rs C:\Users\vagne\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\debounce\mod.rs C:\Users\vagne\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\debounce\timer.rs
+
+D:\Projects\Rust\rustlings\target\debug\deps\notify-4b6a3ed5e9214ab1.d: C:\Users\vagne\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\lib.rs C:\Users\vagne\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\windows.rs C:\Users\vagne\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\null.rs C:\Users\vagne\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\poll.rs C:\Users\vagne\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\debounce\mod.rs C:\Users\vagne\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\debounce\timer.rs
+
+C:\Users\vagne\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\lib.rs:
+C:\Users\vagne\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\windows.rs:
+C:\Users\vagne\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\null.rs:
+C:\Users\vagne\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\poll.rs:
+C:\Users\vagne\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\debounce\mod.rs:
+C:\Users\vagne\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\debounce\timer.rs:

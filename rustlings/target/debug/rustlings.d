@@ -1,0 +1,1 @@
+D:\Projects\Rust\rustlings\target\debug\rustlings.exe: D:\Projects\Rust\rustlings\src\exercise.rs D:\Projects\Rust\rustlings\src\main.rs D:\Projects\Rust\rustlings\src\run.rs D:\Projects\Rust\rustlings\src\ui.rs D:\Projects\Rust\rustlings\src\verify.rs
